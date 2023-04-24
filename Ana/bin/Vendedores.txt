@@ -1,0 +1,5 @@
+nome;zonaDeVenda;idVendedor
+Ana Julia;São Paulo;0001
+Alecsander;Ceará;0002
+Maria Clara;Rio de Janeiro;0003
+

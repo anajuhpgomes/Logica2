@@ -1,0 +1,3 @@
+estado;idZona
+São Paulo;333
+Ceará;444
